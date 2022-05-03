@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.katalogteknologiapps.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_iphone"
+        android:name="com.example.katalogteknologiapps.ui.iphone.IphoneFragment"
+        android:label="@string/menu_katalog_iphone"
+        tools:layout="@layout/fragment_item" >
+        <action
+            android:id="@+id/action_nav_iphone_to_AppsActivity"
+            app:destination="@id/AppsActivity" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_laptop"
+        android:name="com.example.katalogteknologiapps.ui.laptop.LaptopFragment"
+        android:label="@string/menu_katalog_laptop_msi"
+        tools:layout="@layout/fragment_item" >
+        <action
+            android:id="@+id/action_nav_laptop_to_AppsActivity"
+            app:destination="@id/AppsActivity" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/nav_watch"
+        android:name="com.example.katalogteknologiapps.ui.watch.WatchFragment"
+        android:label="@string/menu_katalog_watch"
+        tools:layout="@layout/fragment_item" >
+        <action
+            android:id="@+id/action_nav_watch_to_AppsActivity"
+            app:destination="@id/AppsActivity" />
+    </fragment>
+
+    <activity
+        android:id="@+id/AppsActivity"
+        android:label="@string/labelApps"
+        android:name="com.example.katalogteknologiapps.detail.AppsDetail"
+        tools:layout="@layout/fragment_detail" >
+    </activity>
+
+</navigation>

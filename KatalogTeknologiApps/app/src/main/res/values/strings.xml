@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Catalog Technology</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Maulana</string>
+    <string name="nav_header_subtitle">2010817310008</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="labelApps">Details</string>
+
+    <!-- Text Fragment Home -->
+    <string name="welcome">WELCOME TO CATALOG APPLICATION FOR IPHONE, LAPTOP MSI, AND SAMSUNG GALAXY WATCH</string>
+
+    <!-- Text Navigation Drawer -->
+    <string name="menu_home">Home</string>
+    <string name="menu_katalog_iphone">Iphone</string>
+    <string name="menu_katalog_laptop_msi">Laptop MSI</string>
+    <string name="menu_katalog_watch">Samsung Galaxy Watch</string>
+
+    <!-- Text Iphone -->
+    <string name="iphone1">Iphone 13 PRO MAX</string>
+    <string name="iphone2">Iphone 13 Pro</string>
+    <string name="iphone3">Iphone 13</string>
+    <string name="iphone4">Iphone 13 Mini</string>
+    <string name="iphone5">Iphone 12 Pro Max</string>
+    <string name="iphone6">Iphone 12 Pro</string>
+    <string name="iphone7">Iphone 12</string>
+    <string name="iphone8">Iphone 12 Mini</string>
+
+    <string name="deskripsiIp1">IPhone 13 Pro Max. The biggest Pro camera system update. Super Retina XDR display with ProMotion for noticeably faster and responsive use. Lightning-fast A15 Bionic chip. Rugged design and the best battery life ever in an iPhone.</string>
+    <string name="deskripsiIp2">iPhone 13 Pro. The biggest Pro camera system update. Super Retina XDR display with ProMotion for noticeably faster and responsive use. Lightning-fast A15 Bionic chip. Rugged design and a big jump in battery life.</string>
+    <string name="deskripsiIp3">iPhone 13. The most advanced dual camera system ever on an iPhone. Lightning-fast A15 Bionic chip. Big jump in battery life. Sturdy design. And a brighter Super Retina XDR display.</string>
+    <string name="deskripsiIp4">iPhone 13 mini. The most advanced dual camera system ever on an iPhone. Lightning-fast A15 Bionic chip. Leap in battery power. Sturdy design. And a brighter Super Retina XDR display.</string>
+    <string name="deskripsiIp5">iPhone 12 Pro Max. Larger 6.7-inch Super Retina XDR display.1 Ceramic Shield with four times better drop resistance.2 Stunning low-light photography with the best Pro camera system on iPhone, and 5x optical zoom range. Capable of recording, editing, and playing cinema-grade videos with Dolby Vision. Shoot Night mode and take AR experiences to the next level with LiDAR Scanner. The reliable A14 Bionic chip. And a new MagSafe accessory for easy setup and faster wireless charging.3 For millions of spectacular possibilities</string>
+    <string name="deskripsiIp6">iPhone 12 Pro. Ultra-bright 6.1-inch Super Retina XDR display.1 Ceramic Shield with four times better drop resistance.2 Stunning low-light photography with the new Pro camera system, and 4x optical zoom range. Capable of recording, editing, and playing cinema-grade videos with Dolby Vision. Shoot Night mode and take AR experiences to the next level with LiDAR Scanner. The reliable A14 Bionic chip. And a new MagSafe accessory for easier setup and faster wireless charging.3 For a million spectacular possibilities.</string>
+    <string name="deskripsiIp7">iPhone 12. Incredibly bright 6.1-inch Super Retina XDR display.1 Ceramic Shield with four times better drop resistance.2 Stunning low-light photography with Night mode on all cameras. Capable of recording, editing, and playing cinema-grade videos with Dolby Vision. The reliable A14 Bionic chip. And a new MagSafe accessory for easy setup and faster wireless charging.3 It\'s time for fun.</string>
+    <string name="deskripsiIp8">iPhone 12 mini packs a lot of features in a 5.4-inch design.1 Super Retina XDR display that\'s bright and compact. Ceramic Shield with four times better drop resistance.2 Stunning low-light photography with Night mode on all cameras. Capable of recording, editing, and playing cinema-grade HDR videos with Dolby Vision. The reliable A14 Bionic chip. And a new MagSafe accessory for easy setup and faster wireless charging.3 Great features for your mini.</string>
+
+    <string name="hargaIp1">128 Gb = Rp. 19.699.000\n256 GB = Rp. 22.799.000\n512 GB = Rp. 26.799.000\n1 TB = Rp. 30.799.000</string>
+    <string name="hargaIp2">128 Gb = Rp. 18.199.000\n256 GB = Rp. 20.699.000\n512 GB = Rp. 24.799.000\n1 TB = Rp. 28.799.000</string>
+    <string name="hargaIp3">128 Gb = Rp. 13.999.000\n256 GB = Rp. 16.499.000\n512 GB = Rp. 19.999.000</string>
+    <string name="hargaIp4">128 Gb = Rp. 12.699.000\n256 GB = Rp. 15.199.000\n512 GB = Rp. 18.699.000</string>
+    <string name="hargaIp5">128 Gb = Rp. 17.799.000\n256 GB = Rp. 20.299.000\n512 GB = Rp. 24.299.000</string>
+    <string name="hargaIp6">64 Gb = Rp. 15.799.000\n128 GB = Rp. 18.299.000\n256 GB = Rp. 22.299.000</string>
+    <string name="hargaIp7">64 Gb = Rp. 11.999.000\n128 GB = Rp. 12.999.000\n256 GB = Rp. 14.999.000</string>
+    <string name="hargaIp8">64 GB = Rp. 9.999.000\n128 GB = Rp. 11.499.000\n256 GB = Rp. 12.999.000</string>
+
+    <!-- Text Laptop -->
+    <string name="laptop1">MSI Katana GF66</string>
+    <string name="laptop2">MSI Crosshair 15 Rainbow Six Extraction</string>
+    <string name="laptop3">MSI GE 76 Raider</string>
+    <string name="laptop4">MSI GF63 Thin</string>
+    <string name="laptop5">MSI GF75 Thin</string>
+    <string name="laptop6">MSI GS66 Stealth</string>
+    <string name="laptop7">MSI Pulse GL66 12U</string>
+    <string name="laptop8">MSI Stealth 15</string>
+
+
+    <string name="deskripsiLaptop1">Equipped with the latest 11th generation Intel® Core™ i7 processor and NVIDIA® GeForce RTX™ 30 Series graphics card, the Katana GF66 is optimized for true-to-life performance during gaming. The new GF66 katana was created with the same extraordinary skill used to forge blades. Run with optimal performance and shine on the battlefield.</string>
+    <string name="deskripsiLaptop2">The Ultimate Play GeForce RTX 30 Series Laptop with NVIDIA DLSS and Ray Tracing</string>
+    <string name="deskripsiLaptop3">Equipped with an 11th generation Intel® Core™ i9 processor and powered by an NVIDIA® GeForce RTX™ 30 series graphics card. Like a spaceship traversing the universe at top speed and extreme performance, the GE76 lands seamlessly on the gaming battlefield with a plethora of weapons. complete. Equipped with the most complete features, GE76 Raider is ready to take game fans to infinity and beyond.</string>
+    <string name="deskripsiLaptop4">Processor up to 11th Generation Intel® Core™ i7\nGraphics card up to NVIDIA® GeForce RTX™ 3050Ti Laptop GPU 4GB GDDR6\nThin bezel design\nMSI App Player for a seamless gaming experience between mobile and PC\nHigh-end support Resolution Audio\n Up to 7 hours of battery productivity</string>
+    <string name="deskripsiLaptop5">Those who have the ability to adapt to change are those who are able to survive and thrive. Find your Dragon Spirit and evolve with the latest MSI gaming laptop equipped with a 10th generation Intel® Core™ i7 processor (Comet Lake H) and GeForce® GTX graphics designed especially for gamers in style. Let\'s go to a new generation.</string>
+    <string name="deskripsiLaptop6">Traveling through the city is easy on the GS66 Stealth with a sleek, solid black chassis. Equipped with the latest 11th generation Intel® Core™ i9 processor and NVIDIA® GeForce RTX™ 3080 Laptop GPU graphics card, the GS66 Stealth is an ultra-thin and lightest laptop combined with the world\'s highest capacity 99.9WHr battery and the latest 6E Wi-Fi. . Professional by day, hardcore gamer by night, and incarnate as the ruler of the metropolis with GS66 Stealth.</string>
+    <string name="deskripsiLaptop7">Get ready to conquer the gaming space! The Pulse GL66 features a sturdy titanium gray metal armor and futuristic design. To exhibit the full power in the Pulse GL66, we collaborated with the legendary 3D artist Maarten Verhoeven to construct the Dragon Warrior concept that depicts the life-like visualization of the Pulse GL Series.</string>
+    <string name="deskripsiLaptop8">Terinspirasi dari gaya urban, Stealth 15M adalah laptop gaming 15 inci tertipis dan teringan yang hadir dalam dua varian warna, yaitu Carbon Gray dan Pure White. Ditenagai oleh prosesor Intel® Core™ i7 generasi ke-11 terbaru dan NVIDIA® GeForce RTX™ 3060 Laptop GPU, Stealth 15M sukses menyeimbangkan portabilitas dan performa secara sempurna, ditambah dengan teknologi generasi terkini seperti PCIe Gen 3 dan Thunderbolt™ 4. Didukung oleh Cooler Boost 5 baru dengan bilah kipas setipis 0.1 mm, Stealth 15M memungkinkan para gamer dan profesional muda merasakan eskalasi pada game dan pekerjaan sehari-hari.</string>
+
+    <string name="hargaLaptop1">Rp. 12.999.000</string>
+    <string name="hargaLaptop2">Rp. 24.899.000</string>
+    <string name="hargaLaptop3">Rp. 71.999.000</string>
+    <string name="hargaLaptop4">Rp. 11.499.000</string>
+    <string name="hargaLaptop5">Rp. 10.999.000</string>
+    <string name="hargaLaptop6">Rp. 28.499.000</string>
+    <string name="hargaLaptop7">Rp. 20.199.000</string>
+    <string name="hargaLaptop8">Rp. 25.999.000</string>
+
+    <!-- Text Watch-->
+    <string name="watch1">Samsung Galaxy Fit</string>
+    <string name="watch2">Samsung Galaxy Fit 2</string>
+    <string name="watch3">Samsung Galaxy Watch Active</string>
+    <string name="watch4">Samsung Galaxy Watch 3</string>
+    <string name="watch5">Samsung Galaxy Watch 4</string>
+    <string name="watch6">Samsung Galaxy Watch 4 Bluetooth</string>
+
+    <string name="deskripsiWatch1">The Samsung Galaxy Fit is a 24mm AMOLED smartwatch with a resolution of 120 x 240pixels. Armed with a 120mAh capacity battery that can last up to 10h. The Samsung Galaxy Fit features Bluetooth version 5 connectivity and is water resistant to a depth of 1m.</string>
+    <string name="deskripsiWatch2">Galaxy Fit2 helps you keep your rhythm and your style. The beautiful 3D glass accentuates the sleek design, and with its wide 1.1-inch full color AMOLED display, just a quick glance gives you all the info you need.</string>
+    <string name="deskripsiWatch3">Meet the next generation Galaxy Watch Active. All fitness watches track data. Watch Active stands apart – it’s a fitness watch that actively gives you advice, so you can stay ahead of the game.</string>
+    <string name="deskripsiWatch4">The watch that watches out for you. Galaxy Watch3 combines smartphone-level productivity and leading health technology in one premium and classic device. Our most advanced Galaxy watch yet, Galaxy Watch3 helps you effortlessly manage your life and health — putting your well-being in your hands</string>
+    <string name="deskripsiWatch5">Galaxy Watch4 features a simple design with a streamlined Armor Aluminum metal frame. It offers high-end looks and functionality for your workouts and day-to-day tasks. Choose from a selection of bands, including the Hybrid Leather Band and the Sport Band, to fashion your own band style. Treat your wrist with high-quality materials, comfort fit, and sweat-resistant surfaces.</string>
+    <string name="deskripsiWatch6">Most of us want to know more about ourselves, so we can be the best version of ourselves. That\'s why we engineered the all-new Galaxy Watch4 to be the companion to your journey towards a healthier you.</string>
+
+    <string name="hargaWatch1">Rp. 599.000</string>
+    <string name="hargaWatch2">Rp. 699.000</string>
+    <string name="hargaWatch3">Rp. 2.599.000</string>
+    <string name="hargaWatch4">Rp. 2.799.000</string>
+    <string name="hargaWatch5">Rp. 2.549.000</string>
+    <string name="hargaWatch6">Rp. 2.999.000</string>
+</resources>

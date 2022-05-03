@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Katalog Teknologi</string>
+    <string name="navigation_drawer_open">Buka navigation drawer</string>
+    <string name="navigation_drawer_close">Tutup navigation drawer</string>
+    <string name="nav_header_title">Maulana</string>
+    <string name="nav_header_subtitle">2010817310008</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="labelApps">Detail</string>
+
+    <!-- Text Fragment Home -->
+    <string name="welcome">SELAMAT DATANG DI APLIKASI KATALOG IPHONE, LAPTOP MSI, DAN SAMSUNG GALAXY WATCH</string>
+
+    <!-- Text Navigation Drawer -->
+    <string name="menu_home">Beranda</string>
+    <string name="menu_katalog_iphone">Iphone</string>
+    <string name="menu_katalog_laptop_msi">Laptop MSI</string>
+    <string name="menu_katalog_watch">Samsung Galaxy Watch</string>
+
+    <!-- Text Iphone -->
+    <string name="iphone1">Iphone 13 PRO MAX</string>
+    <string name="iphone2">Iphone 13 Pro</string>
+    <string name="iphone3">Iphone 13</string>
+    <string name="iphone4">Iphone 13 Mini</string>
+    <string name="iphone5">Iphone 12 Pro Max</string>
+    <string name="iphone6">Iphone 12 Pro</string>
+    <string name="iphone7">Iphone 12</string>
+    <string name="iphone8">Iphone 12 Mini</string>
+
+    <string name="deskripsiIp1">iPhone 13 Pro Max. Pembaruan sistem kamera Pro yang terbesar. Layar Super Retina XDR dengan ProMotion untuk penggunaan yang terasa lebih cepat dan responsif. Chip A15 Bionic yang secepat kilat. Desain kokoh dan kekuatan baterai terbaik yang pernah ada di iPhone.</string>
+    <string name="deskripsiIp2">iPhone 13 Pro. Pembaruan sistem kamera Pro yang terbesar. Layar Super Retina XDR dengan ProMotion untuk penggunaan yang terasa lebih cepat dan responsif. Chip A15 Bionic yang secepat kilat. Desain kokoh dan lompatan besar dalam kekuatan baterai.</string>
+    <string name="deskripsiIp3">iPhone 13. Sistem kamera ganda paling canggih yang pernah ada di iPhone. Chip A15 Bionic yang secepat kilat. Lompatan besar dalam kekuatan baterai. Desain kokoh. Dan layar Super Retina XDR yang lebih cerah.</string>
+    <string name="deskripsiIp4">iPhone 13 mini. Sistem kamera ganda paling canggih yang pernah ada di iPhone. Chip A15 Bionic yang secepat kilat. Lompatan dalam kekuatan baterai. Desain kokoh. Dan layar Super Retina XDR yang lebih cerah.</string>
+    <string name="deskripsiIp5">iPhone 12 Pro Max. Layar Super Retina XDR 6,7 inci yang lebih besar.1 Ceramic Shield dengan ketahanan jatuh empat kali lebih baik.2 Fotografi pencahayaan rendah yang menakjubkan dengan sistem kamera Pro terbaik di iPhone, dan rentang zoom optik 5x. Mampu merekam, mengedit, dan memutar video sekelas sinema dengan Dolby Vision. Potret mode Malam dan pengalaman AR di level berikutnya dengan LiDAR Scanner. Chip A14 Bionic yang andal. Dan aksesori MagSafe baru untuk kemudahan pemasangan dan pengisian daya nirkabel yang lebih cepat.3 Untuk berjuta kemungkinan spektakuler</string>
+    <string name="deskripsiIp6">iPhone 12 Pro. Layar Super Retina XDR 6,1 inci yang begitu cerah.1 Ceramic Shield dengan ketahanan jatuh empat kali lebih baik.2 Fotografi pencahayaan rendah yang menakjubkan dengan sistem kamera Pro baru, dan rentang zoom optik 4x. Mampu merekam, mengedit, dan memutar video sekelas sinema dengan Dolby Vision. Potret mode Malam dan pengalaman AR di level berikutnya dengan LiDAR Scanner. Chip A14 Bionic yang andal. Dan aksesori MagSafe baru untuk kemudahan pemasangan dan pengisian daya nirkabel yang lebih cepat.3 Untuk berjuta kemungkinan spektakuler.</string>
+    <string name="deskripsiIp7">iPhone 12. Layar Super Retina XDR 6,1 inci yang begitu cerah.1 Ceramic Shield dengan ketahanan jatuh empat kali lebih baik.2 Fotografi pencahayaan rendah yang menakjubkan dengan mode Malam di semua kamera. Mampu merekam, mengedit, dan memutar video sekelas sinema dengan Dolby Vision. Chip A14 Bionic yang andal. Dan aksesori MagSafe baru untuk kemudahan pemasangan dan pengisian daya nirkabel yang lebih cepat.3 Saatnya bersenang-senang.</string>
+    <string name="deskripsiIp8">iPhone 12 mini memiliki banyak fitur dalam desain 5,4 inci.1 Layar Super Retina XDR yang begitu cerah dan ringkas. Ceramic Shield dengan ketahanan jatuh empat kali lebih baik.2 Fotografi pencahayaan rendah yang menakjubkan dengan mode Malam di semua kamera. Mampu merekam, mengedit, dan memutar video HDR sekelas sinema dengan Dolby Vision. Chip A14 Bionic yang andal. Dan aksesori MagSafe baru untuk kemudahan pemasangan dan pengisian daya nirkabel yang lebih cepat.3 Fitur hebat untuk si mini.</string>
+
+    <string name="hargaIp1">128 Gb = Rp. 19.699.000\n256 GB = Rp. 22.799.000\n512 GB = Rp. 26.799.000\n1 TB = Rp. 30.799.000</string>
+    <string name="hargaIp2">128 Gb = Rp. 18.199.000\n256 GB = Rp. 20.699.000\n512 GB = Rp. 24.799.000\n1 TB = Rp. 28.799.000</string>
+    <string name="hargaIp3">128 Gb = Rp. 13.999.000\n256 GB = Rp. 16.499.000\n512 GB = Rp. 19.999.000</string>
+    <string name="hargaIp4">128 Gb = Rp. 12.699.000\n256 GB = Rp. 15.199.000\n512 GB = Rp. 18.699.000</string>
+    <string name="hargaIp5">128 Gb = Rp. 17.799.000\n256 GB = Rp. 20.299.000\n512 GB = Rp. 24.299.000</string>
+    <string name="hargaIp6">64 Gb = Rp. 15.799.000\n128 GB = Rp. 18.299.000\n256 GB = Rp. 22.299.000</string>
+    <string name="hargaIp7">64 Gb = Rp. 11.999.000\n128 GB = Rp. 12.999.000\n256 GB = Rp. 14.999.000</string>
+    <string name="hargaIp8">64 GB = Rp. 9.999.000\n128 GB = Rp. 11.499.000\n256 GB = Rp. 12.999.000</string>
+
+    <!-- Text Laptop -->
+    <string name="laptop1">MSI Katana GF66</string>
+    <string name="laptop2">MSI Crosshair 15 Rainbow Six Extraction</string>
+    <string name="laptop3">MSI GE 76 Raider</string>
+    <string name="laptop4">MSI GF63 Thin</string>
+    <string name="laptop5">MSI GF75 Thin</string>
+    <string name="laptop6">MSI GS66 Stealth</string>
+    <string name="laptop7">MSI Pulse GL66 12U</string>
+    <string name="laptop8">MSI Stealth 15</string>
+
+    <string name="deskripsiLaptop1">Dilengkapi dengan prosesor Intel® Core™ i7 generasi ke-11 terbaru dan kartu grafis NVIDIA® GeForce RTX™ 30 Series, Katana GF66 dioptimalkan untuk menghasilkan perfoma yang sesungguhnya selama bermain game. Katana GF66 baru diciptakan dengan keterampilan luar biasa yang sama dengan yang digunakan untuk menempa bilah. Berlari dengan performa optimal dan bersinar di medan perang.</string>
+    <string name="deskripsiLaptop2">Laptop Ultimate Play GeForce RTX 30 Series dengan NVIDIA DLSS dan Ray Tracing</string>
+    <string name="deskripsiLaptop3">Dilengkapi dengan prosesor Intel® Core™ i9 generasi ke-11 dan ditenagai oleh kartu grafis NVIDIA® GeForce seri RTX™ 30. Layaknya pesawat ruang angkasa yang melintasi alam semesta dengan kecepatan maksimal dan performa esktrem, GE76 mulus mendarat di medan perang game dengan persenjataan yang lengkap. Dibekali fitur-fitur terlengkap, GE76 Raider siap membawa para penggemar game menuju tak terbatas dan melampauinya.</string>
+    <string name="deskripsiLaptop4">Prosesor hingga Intel® Core™ i7 generasi ke-11\nKartiu grafis hingga NVIDIA® GeForce RTX™ 3050Ti Laptop GPU 4GB GDDR6\nDesain bezel tipis\nMSI App Player untuk pengalaman gaming yang mulus antara mobile dan PC\nDidukung High-Resolution Audio\nProduktivitas baterai hingga 7 jam.</string>
+    <string name="deskripsiLaptop5">Mereka yang memiliki kemampuan beradaptasi terhadap perubahan adalah mereka yang mampu bertahan dan berkembang. Temukan Dragon Spirit-mu dan berevolusilah dengan laptop gaming MSI terbaru yang dilengkapi dengan prosesor Intel® Core™ i7 generasi ke-10 (Comet Lake H) dan grafis GeForce® GTX yang didesain khusus untuk para gamer dengan penuh gaya. Mari menuju generasi yang baru.</string>
+    <string name="deskripsiLaptop6">Bepergian melintasi kota dapat Anda lakukan dengan mudah bersama GS66 Stealth bersasis hitam pekat yang tegas dan ramping. Dilengkapi dengan prosesor Intel® Core™ i9 generasi ke-11 terbaru dan kartu grafis NVIDIA® GeForce RTX™ 3080 Laptop GPU, GS66 Stealth adalah laptop ultra tipis dan paling ringan yang dipadukan dengan baterai berkapasitas 99.9WHr tertinggi di dunia dan Wi-Fi 6E terbaru. Profesional di siang hari, gamer hardcore di malam hari, dan menjelma sebagai penguasa kota metropolis bersama GS66 Stealth.</string>
+    <string name="deskripsiLaptop7">Bersiaplah untuk menaklukkan ruang permainan! Pulse GL66 menampilkan pelindung logam abu-abu titanium yang kokoh dan desain futuristik. Untuk menunjukkan kekuatan penuh pada Pulse GL66, kami berkolaborasi dengan seniman 3D legendaris Maarten Verhoeven untuk membangun konsep Dragon Warrior yang menggambarkan visualisasi Pulse GL Series yang seperti hidup.</string>
+    <string name="deskripsiLaptop8">Terinspirasi dari gaya urban, Stealth 15M adalah laptop gaming 15 inci tertipis dan teringan yang hadir dalam dua varian warna, yaitu Carbon Gray dan Pure White. Ditenagai oleh prosesor Intel® Core™ i7 generasi ke-11 terbaru dan NVIDIA® GeForce RTX™ 3060 Laptop GPU, Stealth 15M sukses menyeimbangkan portabilitas dan performa secara sempurna, ditambah dengan teknologi generasi terkini seperti PCIe Gen 3 dan Thunderbolt™ 4. Didukung oleh Cooler Boost 5 baru dengan bilah kipas setipis 0.1 mm, Stealth 15M memungkinkan para gamer dan profesional muda merasakan eskalasi pada game dan pekerjaan sehari-hari.</string>
+
+    <string name="hargaLaptop1">Rp. 12.999.000</string>
+    <string name="hargaLaptop2">Rp. 24.899.000</string>
+    <string name="hargaLaptop3">Rp. 71.999.000</string>
+    <string name="hargaLaptop4">Rp. 11.499.000</string>
+    <string name="hargaLaptop5">Rp. 10.999.000</string>
+    <string name="hargaLaptop6">Rp. 28.499.000</string>
+    <string name="hargaLaptop7">Rp. 20.199.000</string>
+    <string name="hargaLaptop8">Rp. 25.999.000</string>
+
+    <!-- Text Watch-->
+    <string name="watch1">Samsung Galaxy Fit</string>
+    <string name="watch2">Samsung Galaxy Fit 2</string>
+    <string name="watch3">Samsung Galaxy Watch Active</string>
+    <string name="watch4">Samsung Galaxy Watch 3</string>
+    <string name="watch5">Samsung Galaxy Watch 4</string>
+    <string name="watch6">Samsung Galaxy Watch 4 Bluetooth</string>
+
+    <string name="deskripsiWatch1">Samsung Galaxy Fit adalah smartwatch berlayar AMOLED 24mm dengan resolusi 120 x 240pixels. Berbekal baterai berkapasitas 120mAh yang dapat bertahan hingga 10h. Samsung Galaxy Fit dilengkapi konektivitas Bluetooth versi 5 dan tahan air hingga kedalaman 1m.</string>
+    <string name="deskripsiWatch2">Galaxy Fit2 membantu Anda menjaga ritme dan gaya Anda. Kaca 3D yang indah menonjolkan desain yang ramping, dan dengan layar AMOLED penuh warna 1,1 inci yang lebar, pandangan sekilas akan memberi Anda semua info yang Anda butuhkan.</string>
+    <string name="deskripsiWatch3">Temui Galaxy Watch Active generasi berikutnya. Semua jam tangan kebugaran melacak data. Watch Active berdiri terpisah – ini adalah jam tangan kebugaran yang secara aktif memberi Anda saran, sehingga Anda dapat tetap terdepan dalam permainan.</string>
+    <string name="deskripsiWatch4">Jam tangan yang mengawasi Anda. Galaxy Watch3 menggabungkan produktivitas tingkat smartphone dan teknologi kesehatan terkemuka dalam satu perangkat premium dan klasik. Jam tangan Galaxy kami yang paling canggih, Galaxy Watch3 membantu Anda mengatur hidup dan kesehatan Anda dengan mudah — menempatkan kesejahteraan Anda di tangan Anda</string>
+    <string name="deskripsiWatch5">Galaxy Watch4 memiliki desain sederhana dengan bingkai logam Armor Aluminium yang ramping. Ini menawarkan tampilan dan fungsionalitas kelas atas untuk latihan dan tugas sehari-hari Anda. Pilih dari pilihan band, termasuk Hybrid Leather Band dan Sport Band, untuk membuat gaya band Anda sendiri. Rawat pergelangan tangan Anda dengan bahan berkualitas tinggi, kenyamanan pas, dan permukaan tahan keringat.</string>
+    <string name="deskripsiWatch6">Sebagian besar dari kita ingin tahu lebih banyak tentang diri kita sendiri, sehingga kita bisa menjadi versi terbaik dari diri kita sendiri. Itulah mengapa kami merancang Galaxy Watch4 yang serba baru untuk menjadi pendamping perjalanan Anda menuju Anda yang lebih sehat.</string>
+
+        <string name="hargaWatch1">Rp. 599.000</string>
+        <string name="hargaWatch2">Rp. 699.000</string>
+        <string name="hargaWatch3">Rp. 2.599.000</string>
+        <string name="hargaWatch4">Rp. 2.799.000</string>
+        <string name="hargaWatch5">Rp. 2.549.000</string>
+        <string name="hargaWatch6">Rp. 2.999.000</string>
+</resources>
